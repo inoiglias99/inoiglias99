@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is ino iglias. 
+This is Ino Iglias. 
 
 <!--
 **inoiglias99/inoiglias99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
